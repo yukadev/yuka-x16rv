@@ -1,2 +1,2 @@
 # YUKA-X16RV2
-## Will be released May 8th
+## Will be released May 14th
